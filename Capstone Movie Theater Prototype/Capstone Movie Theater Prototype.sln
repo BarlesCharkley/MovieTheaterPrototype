@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Movie Theater Prototype", "Capstone Movie Theater Prototype.csproj", "{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Movie Theater Prototype.Plugins", "Capstone Movie Theater Prototype.Plugins.csproj", "{7EF8E7D8-B565-7072-4798-8283A83D28AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Movie Theater Prototype.Editor.Plugins", "Capstone Movie Theater Prototype.Editor.Plugins.csproj", "{55A0B400-15AB-F102-8044-97DB8F2229A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF8E7D8-B565-7072-4798-8283A83D28AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF8E7D8-B565-7072-4798-8283A83D28AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF8E7D8-B565-7072-4798-8283A83D28AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF8E7D8-B565-7072-4798-8283A83D28AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A0B400-15AB-F102-8044-97DB8F2229A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A0B400-15AB-F102-8044-97DB8F2229A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A0B400-15AB-F102-8044-97DB8F2229A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A0B400-15AB-F102-8044-97DB8F2229A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 422f7a3609d9cae4da828b4b7360976a
+timeCreated: 1505264907
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Fifty Five '
+  fontNames:
+  - 'Fifty Five '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
