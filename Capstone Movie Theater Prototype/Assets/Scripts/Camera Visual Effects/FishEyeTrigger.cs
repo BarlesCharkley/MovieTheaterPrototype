@@ -13,7 +13,8 @@ public class FishEyeTrigger : MonoBehaviour
     //   public GameObject;
     void Start()
     {
-        fEye = GetComponent<Fisheye>();
+
+        fEye = GameObject.GetComponent<Fisheye>();
         fEye.enabled = false;
 
     }
