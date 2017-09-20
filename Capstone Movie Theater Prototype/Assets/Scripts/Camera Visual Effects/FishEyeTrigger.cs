@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿
 using System.Collections;
 using UnityStandardAssets.ImageEffects;
 
@@ -9,9 +9,11 @@ public class FishEyeTrigger : MonoBehaviour
     Fisheye fEye;
     float timerfEye = 5.0f;
 
+    //GameObject game
+    //   public GameObject;
     void Start()
     {
-        fEye = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Fisheye>();
+        fEye = GetComponent<Fisheye>();
         fEye.enabled = false;
 
     }
