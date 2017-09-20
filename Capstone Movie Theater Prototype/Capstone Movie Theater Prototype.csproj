@@ -84,10 +84,19 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Camera Visual Effects\BloomTrigger.cs" />
+    <Compile Include="Assets\Scripts\Camera Visual Effects\DepthOfFieldTrigger.cs" />
+    <Compile Include="Assets\Scripts\Camera Visual Effects\FishEyeTrigger.cs" />
+    <Compile Include="Assets\Scripts\Camera Visual Effects\MotionBlurTrigger.cs" />
     <Compile Include="Assets\Scripts\CameraShake1.cs" />
     <Compile Include="Assets\Scripts\DeathReset.cs" />
     <Compile Include="Assets\Scripts\FadeAlpha.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
+    <Compile Include="Assets\Scripts\Movement Scripts\MovingPlatforms.cs" />
+    <Compile Include="Assets\Scripts\Movement Scripts\PyramidRotation.cs" />
+    <Compile Include="Assets\Scripts\Movement Scripts\RisingPlane.cs" />
+    <Compile Include="Assets\Scripts\Movement Scripts\RotateScript.cs" />
+    <Compile Include="Assets\Scripts\Movement Scripts\RotateWalls.cs" />
     <Compile Include="Assets\Scripts\NextScene.cs" />
     <Compile Include="Assets\Scripts\OrbitScript.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />
