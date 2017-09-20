@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Movie Theater Prototype.Plugins", "Capstone Movie Theater Prototype.Plugins.csproj", "{7EF8E7D8-B565-7072-4798-8283A83D28AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Movie Theater Prototype", "Capstone Movie Theater Prototype.csproj", "{F3D7B33C-7026-DD3A-BEF3-4C6B52A5B79E}"
