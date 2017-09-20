@@ -101,6 +101,7 @@
     <Compile Include="Assets\Scripts\OrbitScript.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />
     <Compile Include="Assets\Scripts\ReloadScene.cs" />
+    <Compile Include="Assets\Scripts\TriggerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scripts\Shaders\3D Text\3D Text Readme.txt" />
